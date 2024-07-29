@@ -1,7 +1,7 @@
 import cv2
 
 # Read the image
-img=cv2.imread(r"C:\Users\srika\Desktop\AIML\DAY_3\flower.png")
+img=cv2.imread("flower.png")
 
 # Convert the image into grey scale
 Gray_img=cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
