@@ -45,9 +45,10 @@ A simple Python project using OpenCV that reads a color image, converts it to gr
 - After 5 seconds, the windows close automatically.  
 
 📂 Project Structure
-
+```bash
 📁 grayscale-image-converter  
 ├── app.py         # Main Python script  
 ├── flower.png     # Input image (user-provided)  
 ├── grey.png       # Output grayscale image (auto-generated)  
-└── README.md      # Project documentation  
+└── README.md      # Project documentation
+```
